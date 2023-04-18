@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrådsynOpgave2-3", "TrådsynOpgave2-3\TrådsynOpgave2-3.csproj", "{9003DA07-A6FA-4914-AC36-C42DE436319B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9003DA07-A6FA-4914-AC36-C42DE436319B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9003DA07-A6FA-4914-AC36-C42DE436319B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9003DA07-A6FA-4914-AC36-C42DE436319B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9003DA07-A6FA-4914-AC36-C42DE436319B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {472B95CD-3A28-4B04-8E51-ED51D0B1E5A4}
+	EndGlobalSection
+EndGlobal

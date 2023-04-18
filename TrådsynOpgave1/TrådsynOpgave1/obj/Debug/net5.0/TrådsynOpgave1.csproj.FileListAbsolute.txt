@@ -1,0 +1,16 @@
+C:\Users\zbclshi\source\repos\TrådsynOpgave1\TrådsynOpgave1\bin\Debug\net5.0\TrådsynOpgave1.exe
+C:\Users\zbclshi\source\repos\TrådsynOpgave1\TrådsynOpgave1\bin\Debug\net5.0\TrådsynOpgave1.deps.json
+C:\Users\zbclshi\source\repos\TrådsynOpgave1\TrådsynOpgave1\bin\Debug\net5.0\TrådsynOpgave1.runtimeconfig.json
+C:\Users\zbclshi\source\repos\TrådsynOpgave1\TrådsynOpgave1\bin\Debug\net5.0\TrådsynOpgave1.runtimeconfig.dev.json
+C:\Users\zbclshi\source\repos\TrådsynOpgave1\TrådsynOpgave1\bin\Debug\net5.0\TrådsynOpgave1.dll
+C:\Users\zbclshi\source\repos\TrådsynOpgave1\TrådsynOpgave1\bin\Debug\net5.0\ref\TrådsynOpgave1.dll
+C:\Users\zbclshi\source\repos\TrådsynOpgave1\TrådsynOpgave1\bin\Debug\net5.0\TrådsynOpgave1.pdb
+C:\Users\zbclshi\source\repos\TrådsynOpgave1\TrådsynOpgave1\obj\Debug\net5.0\TrådsynOpgave1.csproj.AssemblyReference.cache
+C:\Users\zbclshi\source\repos\TrådsynOpgave1\TrådsynOpgave1\obj\Debug\net5.0\TrådsynOpgave1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zbclshi\source\repos\TrådsynOpgave1\TrådsynOpgave1\obj\Debug\net5.0\TrådsynOpgave1.AssemblyInfoInputs.cache
+C:\Users\zbclshi\source\repos\TrådsynOpgave1\TrådsynOpgave1\obj\Debug\net5.0\TrådsynOpgave1.AssemblyInfo.cs
+C:\Users\zbclshi\source\repos\TrådsynOpgave1\TrådsynOpgave1\obj\Debug\net5.0\TrådsynOpgave1.csproj.CoreCompileInputs.cache
+C:\Users\zbclshi\source\repos\TrådsynOpgave1\TrådsynOpgave1\obj\Debug\net5.0\TrådsynOpgave1.dll
+C:\Users\zbclshi\source\repos\TrådsynOpgave1\TrådsynOpgave1\obj\Debug\net5.0\ref\TrådsynOpgave1.dll
+C:\Users\zbclshi\source\repos\TrådsynOpgave1\TrådsynOpgave1\obj\Debug\net5.0\TrådsynOpgave1.pdb
+C:\Users\zbclshi\source\repos\TrådsynOpgave1\TrådsynOpgave1\obj\Debug\net5.0\TrådsynOpgave1.genruntimeconfig.cache
